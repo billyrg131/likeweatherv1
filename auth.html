@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+	<link rel="stylesheet" href="style1.css">
+	<title>LikeWeather | Sign In</title>
+</head>
+<body>
+	<nav class="navbar navbar-light bg-danger">
+  		<div class="container-fluid">
+    		<a class="navbar-brand" href="#">
+				<img src="cloud.jpeg" width="50" height="50"/>
+				LikeWeather
+			</a>
+  		</div>
+	</nav>
+	<div class="container">
+		<p id="message"></p>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="loginBx">
+					<h3 class="loginH">Login Your Account</h3>
+					<form action="#">
+						<div class="form-group">
+							<input type="email" class="form-control" 
+							placeholder="Enter Email" id="loginEmail">
+						</div>
+						<div class="form-group">
+							<input type="password" class="form-control" 
+							placeholder="Enter Password" id="loginPass">
+						</div>
+						<br>
+						<div>
+							<button type="button" placeholder="Enter email" 
+							class="btn btn-primary" id="authBtn" onclick="logIn();">Login</button>
+
+							<button type="reset" class="btn btn-danger"
+							id="authBtn" onclick="reset();">Reset</button>
+						</div>
+					</form>
+				</div>
+			</div>									
+		</div>
+	</div>
+
+<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-storage.js"></script>
+
+<script type="text/javascript" src="auth.js"></script>
+</body>
+</html>

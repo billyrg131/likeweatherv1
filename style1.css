@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+.body1{
+    background-image: url("weather-images.jpeg");
+    background-size: cover;
+}
+.home{
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 200px;
+    background: yellow;
+}
+.home-h1{
+    font-size: 34px;
+    font-family: "Merriweather", sans-serif;
+}
+.home-p{
+    font-size: 20px;
+    font-family: "Ubuntu", sans-serif;
+}
+#btnForm{
+    font-family: 18px;
+    font-family: "Audiowide", sans-serif;
+}
+/*Styling Login Page*/
+
+.loginBx{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#loginEmail{
+    font-size: 20px;
+    font-family: Ubuntu, sans-serif;
+}
+#loginPass{
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Ubuntu, sans-serif;
+}
+#loginH{
+    font-family: Merriweather, sans-serif;
+    font-size: 34px;
+}
+::placeholder{
+    font-family: Sofia, sans-serif;
+}
+#authBtn{
+    font-family: Audiowide, sans-serif;
+    font-size: 18px;
+}
+/*Styling Register Page*/
+.regBx{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#signUpEmail{
+    font-size: 20px;
+    font-family: Ubuntu, sans-serif;
+}
+#signUpPass{
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Ubuntu, sans-serif;
+}
+::placeholder{
+    font-family: Sofia, sans-serif;
+}
+#message{
+    background: white;
+    padding: 12px;
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+}

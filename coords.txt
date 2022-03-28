@@ -1,0 +1,122 @@
+			Latitude	Longitude	
+City			'	'			Time
+Aberdeen, Scotland	57.1499 N	2.0938 W	5:00 p.m.
+Adelaide, Australia	34.9285 S	138.6007 E	2:30 a.m.1
+Algiers, Algeria	36.7538 N	3.0588 E	6:00 p.m.
+Amsterdam, Netherlands	52.3676 N	4.9041 E	6:00 p.m.
+Ankara, Turkey		39.9334 N	32.8597 E	7:00 p.m.
+Asuncin, Paraguay	25.2637 S	57.5759 W	1:00 p.m.
+Athens, Greece		37.9838 N	23.7275 E	7:00 p.m.
+Auckland, New Zealand	36.8509 S	174.7645 E	5:00 a.m.1
+Bangkok, Thailand	13.7563 N	100.5018 E	midnight
+Barcelona, Spain	41.3874 N	2.1686 E	6:00 p.m.
+Beijing, China		39.9042 N	116.4074 E	1:00 a.m.1
+Belem, Brazil		1.4563 S	48.5013 W	2:00 p.m.
+Belfast, Northern Ireland	54.5973 N	5.9301 W	5:00 p.m.
+Belgrade, Serbia	44.8125 N	20.4612 E	6:00 p.m.
+Berlin, Germany	 	52.5200 N	13.4050 E	6:00 p.m.
+Birmingham, England	52.4862 N	1.8904 W	5:00 p.m.
+Bogota, Colombia	4.7110 N	74.0721 W	12:00 noon
+Bombay, India		19.0760 N	72.8777 E	10:30 p.m.
+Bordeaux, France	44.8378 N	0.5792 W	6:00 p.m.
+Bremen, Germany		53.0793 N	8.8017 E	6:00 p.m.
+Brisbane, Australia	27.4705 S	153.0260 E	3:00 a.m.1
+Bristol, England	51.4545 N	2.5879 W	5:00 p.m.
+Brussels, Belgium	50.8476 N	4.3572 E	6:00 p.m.
+Bucharest, Romania	44.4268 N	26.1025 E	7:00 p.m.
+Budapest, Hungary	47.4979 N	19.0402 E	6:00 p.m.
+Buenos Aires, Argentina	34.6037 S	58.3816 W	2:00 p.m.
+Cairo, Egypt		30.0444 N	31.2357 E	7:00 p.m.
+Calcutta, India		22.5726 N	88.3639 E	10:30 p.m.
+Canton(Guangzhou),China 23.1291 N	113.2644 E	1:00 a.m.1
+Cape Town, South Africa	33.9249 S	18.4241 E	7:00 p.m.
+Caracas, Venezuela	10.4806 N	66.9036 W	1:00 p.m.
+Cayenne, French Guiana	4.9224 N	52.3135 W	2:00 p.m.
+Chihuahua, Mexico	28.6330 N	106.0691 W	10:00 a.m.
+Chongqing, China	29.5657 N	106.5512 E	1:00 a.m.1
+Copenhagen, Denmark	55.6761 N	12.5683 E	6:00 p.m.
+Cordoba, Argentina	31.4201 S	64.1888 W	2:00 p.m.
+Dakar, Senegal		14.7167 N	17.4677 W	5:00 p.m.
+Darwin, Australia	12.4637 S	130.8444 E	2:30 a.m.1
+Djibouti, Djibouti	11.8251 N	42.5903 E	8:00 p.m.
+Dublin, Ireland	53	53.3498 N	6.2603 W	5:00 p.m.
+Durban, South Africa	29.8587 S	31.0218 E	7:00 p.m.
+Edinburgh, Scotland	55.9533 N	3.1883 W	5:00 p.m.
+Frankfurt, Germany	50.1109 N	8.6821 E	6:00 p.m.
+Georgetown, Guyana	6.8013 N	58.1551 W	1:00 p.m.
+Glasgow, Scotland	55.8642 N	4.2518 W	5:00 p.m.
+Guatemala City, Guatemala	14.6349 N	90.5069 W	11:00 a.m.
+Guayaquil, Ecuador	2.1894 S	79.8891 W	12:00 noon
+Hamburg, Germany	53.5511 N	9.9937 E	6:00 p.m.
+Hammerfest, Norway	70.6634 N	23.6820 E	6:00 p.m.
+Havana, Cuba		23.1136 N	82.3666 W	12:00 noon
+Helsinki, Finland	60.1699 N	24.9384 E	7:00 p.m.
+Hobart, Tasmania	42.8826 S	147.3257 E	3:00 a.m.1
+Hong Kong, China	22.3193 N	114.1694 E	1:00 a.m.1
+Iquique, Chile		20.2307 S	70.1357 W	1:00 p.m.
+Irkutsk, Russia		52.2855 N	104.2890 E	1:00 a.m.
+Jakarta, Indonesia	6.2088 S	106.8456 E	midnight
+Johannesburg, South Africa	26.2041 S	28.0473 E	7:00 p.m.
+Kingston, Jamaica	18.0179 N	76.8099 W	12:00 noon
+Kinshasa, Congo		4.4419 S	15.2663 E	6:00 p.m.
+Kuala Lumpur, Malaysia	3.1390 N	101.6869 E	1:00 a.m.1
+La Paz, Bolivia		16.4897 S	68.1193 W	1:00 p.m.
+Leeds, England		53.8008 N	1.5491 W	5:00 p.m.
+Lima, Peru		12.0464 S	77.0428 W	12:00 noon
+Lisbon, Portugal	38.7223 N	9.1393 W	5:00 p.m.
+Liverpool, England	53.4084 N	2.9916 W	5:00 p.m.
+London, England		51.5072 N	0.1276 W	5:00 p.m.
+Lyons, France		45.7640 N	4.8357 E	6:00 p.m.
+Madrid, Spain		40.4168 N	3.7038 W	6:00 p.m.
+Manchester, England	53.4808 N	2.2426 W	5:00 p.m.
+Manila, Philippines	14.5995 N	120.9842 E	1:00 a.m.1
+Marseilles, France	43.2965 N	5.3698 E	6:00 p.m.
+Mazatlan, Mexico	23.2494 N	106.4111 W	10:00 a.m.
+Mecca, Saudi Arabia	21.3891 N	39.8579 E	8:00 p.m.
+Melbourne, Australia	37.8136 S	144.9631 E	3:00 a.m.1
+Mexico City, Mexico	19.4326 N	99.1332 W	11:00 a.m.
+Milan, Italy		45.4642 N	9.1900 E	6:00 p.m.
+Montevideo, Uruguay	34.9011 S	56.1645 W	2:00 p.m.
+Moscow, Russia		55.7558 N	37.6173 E	8:00 p.m.
+Munich, Germany		48.1351 N	11.5820 E	6:00 p.m.
+Nagasaki, Japan		32.7503 N	129.8779 E	2:00 a.m.1
+Nagoya, Japan		35.1815 N	136.9066 E	2:00 a.m.1
+Nairobi, Kenya		1.2921 S	36.8219 E	8:00 p.m.
+Nanjing (Nanking), China	32.0584 N	118.7965 E	 1:00 a.m.1
+Naples, Italy		40.8518 N	14.2681 E	6:00 p.m.
+New Delhi, India	28.6139 N	77.2090 E	10:30 p.m.
+Newcastle-on-Tyne, England	54.9783 N	1.6178 W	5:00 p.m.
+Odessa, Ukraine		46.4825 N	30.7233 E	7:00 p.m.
+Osaka, Japan		34.6937 N	135.5023 E	2:00 a.m.1
+Oslo, Norway		59.9139 N	10.7522 E	6:00 p.m.
+Panama City, Panama	8.9824 N 	79.5199 W	12:00 noon
+Paramaribo, Suriname	5.8520 N	55.2038 W	2:00 p.m.
+Paris, France		48.8566 N	2.3522 E	6:00 p.m.
+Perth, Australia	31.9523 S	115.8613 E	1:00 a.m.1
+Plymouth, England	50.3755 N	4.1427 W	5:00 p.m.
+Port Moresby, Papua New Guinea		9.4438 S	147.1803 E	3:00 a.m.1
+Prague, Czech Republic	50.0755 N	14.4378 E	6:00 p.m.
+Rangoon(Yangon), Myanmar	16.8409 N	96.1735 E	11:30 p.m.
+Reykjavk, Iceland	64.1466 N	21.9426 W	5:00 p.m.
+Rio de Janeiro, Brazil	22.9068 S	43.1729 W	2:00 p.m.
+Rome, Italy		41.9028 N	12.4964 E	6:00 p.m.
+Salvador, Brazil	12.9777 S	38.5016 W	2:00 p.m.
+Santiago, Chile		33.4489 S	70.6693 W	1:00 p.m.
+St. Petersburg, Russia	59.9311 N	30.3609 E	8:00 p.m.
+Sao Paulo, Brazil	23.5558 S	46.6396 W	2:00 p.m.
+Shanghai, China		31.2304 N	121.4737 E	1:00 a.m.1
+Singapore, Singapore	1.3521 N	103.8198 E	1:00 a.m.1
+Sofia, Bulgaria		42.6977 N	23.3219 E	7:00 p.m.
+Stockholm, Sweden	59.3293 N	18.0686 E	6:00 p.m.
+Sydney, Australia	34.8688 S	151.2093 E	3:00 a.m.1
+Tananarive(Antananarivo), Madagascar	18.8792 S	47.5079 E	8:00 p.m.
+Tehran, Iran		35.6892 N	51.3890 E	8:30 p.m.
+Tokyo, Japan		35.6762 N	139.6503 E	2:00 a.m.1
+Tripoli, Libya		32.8872 N	13.1913 E	7:00 p.m.
+Venice, Italy		45.4408 N	12.3155 E	6:00 p.m.
+Veracruz, Mexico	19.1738 N	96.1342 W	11:00 a.m.
+Vienna, Austria		48.2082 N	16.3738 E	6:00 p.m.
+Vladivostok, Russia	43.1332 N	131.9113 E	3:00 a.m.1
+Warsaw, Poland		52.2297 N	21.0122 E	6:00 p.m.
+Wellington, New Zealand	41.2924 S	174.7787 E	5:00 a.m.1
+Zurich, Switzerland	47.3769 N	8.5417 E	6:00 p.m.
