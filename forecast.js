@@ -17,7 +17,7 @@ btnF.addEventListener('click', function(){
         console.log(data)
         tzVal = data['timezone']
         tZone.innerHTML = 'Timezone:' + tzVal;
-        data.daily.forEach((daily)=>{
+        data.daily.forEach(daily=>{
             let td = document.createElement('td');
             td.innerHTML = "Day Temp: " + Math.round(daily.temp.day - 273.15)+ "˚C";
             td.style.fontSize = "12px";
